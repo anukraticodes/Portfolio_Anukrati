@@ -12,14 +12,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 </center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/anukratichaturvedi/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/anukratichaturvedi/Portfolio/issues">Request Feature</a>
-</h3>
-
 ## About
 
 My personal portfolio website showcasing my projects, technical skills, and professional experience.
@@ -35,11 +27,11 @@ This project was built using these technologies:
 
 ## Features
 
-**📖 Multi-Page Layout**
+**Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
+**Styled with React-Bootstrap and CSS with easy to customize colors**
 
-**📱 Fully Responsive**
+**Fully Responsive**
 
 ## Author
 
