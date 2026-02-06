@@ -9,7 +9,6 @@ import { SiLeetcode, SiCodeforces } from "react-icons/si";
 
 function Footer() {
   let date = new Date();
-  let year = date.getFullYear();
 
   return (
     <Container fluid className="footer">
