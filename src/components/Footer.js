@@ -8,7 +8,6 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode, SiCodeforces } from "react-icons/si";
 
 function Footer() {
-  let date = new Date();
 
   return (
     <Container fluid className="footer">
